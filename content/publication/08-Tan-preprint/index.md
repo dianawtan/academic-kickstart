@@ -12,7 +12,7 @@ authors:
 - Kandice Varcin
 - Andrew Whitehouse
 - Gail Alvares
-date: "Preprint"
+date: "2019-07-01"
 doi: "10.31219/osf.io/xy7m6"
 
 # Schedule page publish date (NOT publication's date).
