@@ -7,7 +7,7 @@ authors:
 - Jia-Xin Tay
 - Peter Eastwood
 - Andrew Whitehouse
-date: ""
+date: "2020-01-01"
 doi: "10.1111/bjop.12436"
 
 # Schedule page publish date (NOT publication's date).
@@ -66,11 +66,4 @@ projects: [facial phenotypes of autism]
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
 

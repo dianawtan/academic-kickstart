@@ -1,15 +1,15 @@
 ---
-title: "Hypermasculinised facial morphology in boys and girls with Autism Spectrum Disorder and its association with symptomatology"
+title: "A broad autism phenotype expressed in facial morphology"
 authors:
 - admin
-- Syed Zulqarnain Gilani
 - Murray Maybery
+- Syed Zulqarnain Gilano
+- Gail Alvares
 - Ajmal Mian
-- Anna Hunt
-- Mark Walters
+- David Suter
 - Andrew Whitehouse
-date: "2017-12-01"
-doi: "10.1038/s41598-017-09939-y"
+date: "2020-16-01"
+doi: "10.1038/s41398-020-0695-z"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +21,10 @@ doi: "10.1038/s41598-017-09939-y"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Scientific Reports*"
+publication: "*Translational Psychiatry*"
 publication_short: ""
 
-# abstract: 
+#abstract: 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,9 +36,9 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'http://www.nature.com/articles/s41598-017-09939-y'
-url_code: ''
-url_dataset: ''
+url_pdf: 'http://www.nature.com/articles/s41398-020-0695-z'
+url_code: 'https://github.com/dianawtan/asd-sibs-faces'
+url_dataset: 'https://figshare.com/articles/asd-sibs-faces/11611491'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -66,5 +66,5 @@ projects: [facial phenotypes of autism]
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
+== 
 

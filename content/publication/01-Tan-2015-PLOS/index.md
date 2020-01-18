@@ -24,8 +24,6 @@ publication_types: ["2"]
 publication: "*PLOS ONE*"
 publication_short: ""
 
-abstract: The Extreme Male Brain (EMB) theory posits that autistic traits are linked to excessive exposure to testosterone in utero. While findings from a number of studies are consistent with this theory, other studies have produced contradictory results. For example, some findings suggest that rather than being linked to hypermasculinization for males, or defeminization for females, elevated levels of autistic traits are instead linked to more androgynous physical features. The current study provided further evidence relevant to the EMB and androgony positions by comparing groups of males selected for high or low scores on the Autismspectrum Quotient (AQ) as to the rated masculinity of their faces and voices, and comparable groups of females as to the rated femininity of their faces and voices. The voices of High-AQ males were rated as more masculine than those of Low-AQ males, while the faces of High-AQ females were rated as less feminine than those of Low-AQ females. There was no effect of AQ group on femininity ratings for female voices or on masculinity ratings for male faces. The results thus provide partial support for a link between high levels of autisticlike traits and hypermasculinization for males and defeminization for females, consistent with the EMB theory.
-
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -67,11 +65,4 @@ projects: [facial phenotypes of autism]
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
 

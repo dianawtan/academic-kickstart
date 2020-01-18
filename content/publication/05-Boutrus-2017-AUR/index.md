@@ -23,7 +23,6 @@ publication_types: ["2"]
 publication: "*Autism Research*"
 publication_short: ""
 
-abstract: The summarized studies indicate an increased frequency of minor facial anomalies in individuals with ASC compared to TD individuals [Ozgen et al., 2011, 2013; Rodier et al., 1997; Walker, 1977]. Among the features examined, facial asymmetry in ASC appears to exhibit the greatest consistency between studies [Hammond et al., 2008; Ozgen et al., 2011, 2013]. There is also some evidence to suggest that ASC-related facial characteristics may correspond with particular cognitive and behavioral traits. Speciﬁcally, reduced maxillary height and increased mouth width may be more common among individuals with ASC who have comorbid intellectual disability, language regression, and greater severity of ASC symptoms [Aldridge et al., 2011; Obafemi-Ajayi et al., 2015]. Findings from one study suggest that decreased mouth width may be more common among individuals with ASC who have an IQ within the normal range and lower symptom severity [Obafemi-Ajayi et al., 2015]. However, these conclusions must be considered preliminary given that the studies in this area have overlapping participant samples.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -66,11 +65,4 @@ projects: [facial phenotypes of autism]
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
 
