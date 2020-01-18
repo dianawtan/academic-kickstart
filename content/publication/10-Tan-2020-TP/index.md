@@ -8,8 +8,9 @@ authors:
 - Ajmal Mian
 - David Suter
 - Andrew Whitehouse
-date: "2020-16-01"
+date: "2020-01-16" 
 doi: "10.1038/s41398-020-0695-z"
+# YYYY-MM-DD
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
