@@ -14,17 +14,16 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Western Australia
-- name: Telethon Kids Institute
+- name: Macquarie University
 
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Autism spectrum disorder
-- Facial phenotype
-- Early markers
+- Participatory autism research
+- Stigma and prejudice
+- Biological markers
 
 education:
   courses:
@@ -71,4 +70,4 @@ email: ""
 #- Visitors
 ---
 
-Diana Tan is a postdoctoral researcher in psychology at the University of Western Australia (UWA) and Telethon Kids Institute. In 2012, she uprooted from Singapore to Perth, Western Australia to pursue her Honours and PhD degrees in UWA. Her research aims to understand biological mechanisms underlying the development of autism spectrum disorder (ASD) and to identify early markers that contribute to the developmental cascade leading to a diagnosis of ASD. She is also passionate about doing and sharing good science! 
+I grew up in Singapore and moved to Perth, Western Australia in 2012 to pursue my Honours and PhD degrees in Psychology in the University of Western Australia (UWA). I completed my PhD in 2018 where I investigated biological mechanisms underlying the development of autism using physical characteristics such as facial structures. Prior to joining Macquarie University in 2021, I worked as a Postdoctoral Research Associate at the School of Psychological Science in UWA and CliniKids in Telethon Kids Institute where I built on my PhD research by examining facial characteristics expressed as a broad autism phenotype among siblings and parents of children on the autism spectrum. My PhD and early postdoctoral work has equipped me with a critical mind and advanced quantitative research skills. In my new role at AutismMQ, I aim to apply these skills to conduct meaningful and impactful research in collaboration with the autistic and autism community. My current research interests include factors influencing the social inclusion of autistic individuals in everyday settings and in research beyond merely as passive participants but as active collaborators. I am also interested in the impact of social camouflaging on the wellbeing of autistic people.
