@@ -8,7 +8,7 @@ authors:
 - admin
 - Ajmal Mian
 - Andrew Whitehouse
-date: "2020-16-09" 
+date: "2020-09-16" 
 doi: "10.1007/s10803-020-04661-7"
 # YYYY-MM-DD
 
