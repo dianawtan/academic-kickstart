@@ -24,6 +24,30 @@ date_format = "Jan 2006"
   location = "AU"
   date_start = "2021-04-12"
   date_end = ""
+  
+[[experience]]
+  title = "Honorary Research Fellow"
+  company = "School of Psychological Science, University of Western Australia"
+  company_url = "http://canlab.org.au/"
+  location = "AU"
+  date_start = "2021-04-10"
+  date_end = ""
+
+[[experience]]
+  title = "Honorary Research Associate"
+  company = "CliniKids, Telethon Kids Institute"
+  company_url = "https://clinikids.telethonkids.org.au/about-us/our-team/"
+  location = "AU"
+  date_start = "2020-09-20"
+  date_end = ""
+  
+[[experience]]
+  title = "Visiting Researcher"
+  company = "Autism Research Centre, University of Cambridge"
+  company_url = "https://www.autismresearchcentre.com/"
+  location = "UK"
+  date_start = "2019-11-01"
+  date_end = ""
 
 [[experience]]
   title = "Postdoctoral Research Associate"
@@ -39,7 +63,7 @@ date_format = "Jan 2006"
   company_url = "https://www.telethonkids.org.au/our-research/brain-and-behaviour/disability/autism-research/"
   location = "AU"
   date_start = "2018-04-01"
-  date_end = ""
+  date_end = "2020-03-31"
 
 [[experience]]
   title = "Visiting PhD Student"

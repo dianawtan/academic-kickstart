@@ -1,15 +1,19 @@
 ---
-title: "A broad autism phenotype expressed in facial morphology"
+title: "A preliminary investigation of the effects of prenatal alcohol exposure on facial morphology in children with Autism Spectrum Disorder"
 authors:
 - admin
-- Murray Maybery
-- Syed Zulqarnain Gilano
-- Gail Alvares
-- Ajmal Mian
-- David Suter
+- Yong Zhi Foo
+- Jenny Downs
+- Amy Finlay-Jones
+- Helen Leonard
+- Melissa Licari
+- Narelle Mullen
+- Martyn Symons
+- Kandice Varcin
 - Andrew Whitehouse
-date: "2020-01-16" 
-doi: "10.1038/s41398-020-0695-z"
+- Gail Alvares
+date: "2020-08-01" 
+doi: "10.1016/j.alcohol.2020.03.010"
 # YYYY-MM-DD
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +26,7 @@ doi: "10.1038/s41398-020-0695-z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Translational Psychiatry*"
+publication: "*Alcohol*"
 publication_short: ""
 
 #abstract: 
@@ -37,9 +41,9 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'http://www.nature.com/articles/s41398-020-0695-z'
-url_code: 'https://github.com/dianawtan/asd-sibs-faces'
-url_dataset: 'https://figshare.com/articles/asd-sibs-faces/11611491'
+url_pdf: 'http://www.sciencedirect.com/science/article/pii/S0741832920302020'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -58,7 +62,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [facial phenotypes of autism]
+projects: [autism facial phenotypes]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

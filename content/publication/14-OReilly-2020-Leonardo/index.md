@@ -1,19 +1,13 @@
 ---
-title: "A preliminary investigation of the effects of prenatal alcohol exposure on facial morphology in children with Autism Spectrum Disorder"
+title: "Animation, Theory of Mind and Humanoid Robots: Creating a Social Robot Video Task"
 authors:
+- Ziggy O'Reilly
+- David Silvera-Tawil
+- Ionat Zurr
 - admin
-- Yong Zhi Foo
-- Jenny Downs
-- Amy Finlay-Jones
-- Helen Leonard
-- Melissa Licari
-- Narelle Mullan
-- Martyn Symons
-- Kandice Varcin
-- Andrew Whitehouse
-- Gail Alvares
-date: "2019-07-01"
-doi: "10.31219/osf.io/xy7m6"
+date: "in press" 
+doi: ""
+# YYYY-MM-DD
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -22,10 +16,10 @@ doi: "10.31219/osf.io/xy7m6"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*OSF*"
+publication: "*Leonardo*"
 publication_short: ""
 
 #abstract: 
@@ -41,7 +35,6 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: ''
-url_preprint: 'https://osf.io/xy7m6'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -62,7 +55,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [facial phenotypes of autism]
+projects: [social cognition]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -71,5 +64,5 @@ projects: [facial phenotypes of autism]
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
+== 
 
