@@ -18,12 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Incoming Macquarie University Research Fellow"
+  company = "Macquarie School of Education, Macquarie University"
+  company_url = "https://www.facebook.com/autism.mq"
+  location = "AU"
+  date_start = "2022-12-12"
+  date_end = ""
+
+[[experience]]
   title = "Postdoctoral Research Fellow"
-  company = "School of Education, Macquarie University"
+  company = "Macquarie School of Education, Macquarie University"
   company_url = "https://www.facebook.com/autism.mq"
   location = "AU"
   date_start = "2021-04-12"
-  date_end = ""
+  date_end = "2022-12-09"
   
 [[experience]]
   title = "Honorary Research Fellow"
@@ -47,7 +55,7 @@ date_format = "Jan 2006"
   company_url = "https://www.autismresearchcentre.com/"
   location = "UK"
   date_start = "2019-11-01"
-  date_end = ""
+  date_end = "2021-04-09"
 
 [[experience]]
   title = "Postdoctoral Research Associate"
